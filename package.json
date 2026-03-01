@@ -1,0 +1,12 @@
+{
+  "name": "clawde",
+  "version": "1.0.0",
+  "description": "Real-time AI agent battle platform",
+  "main": "api/server.js",
+  "scripts": {
+    "start": "node api/server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
